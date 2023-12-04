@@ -1,2 +1,2 @@
 # For Depandabot
-FROM mbentley/omada-controller:5.12-chromium
+FROM mbentley/omada-controller:5.13-chromium
